@@ -1,0 +1,2 @@
+Change Room Name: Old Name=RoomDefinition_1 New Name=U_led_em_kian_220v_v2_SWITCHING
+Change Room Scope: Old Scope=InComponentClass('test') New Scope=InComponentClass('U_led_em_kian_220v_v2_SWITCHING')

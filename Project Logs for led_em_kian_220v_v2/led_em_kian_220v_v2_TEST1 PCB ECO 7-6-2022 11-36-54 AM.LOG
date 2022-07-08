@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component C2 100nF-275V
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component RF1 1.1R
+Added Member To Class: ClassName=HV Member=Wire NetBR1_F
+Added Member To Class: ClassName=HV Member=Wire N OL_EMI
+Added Member To Class: ClassName=HV Member=Wire PH_EMI

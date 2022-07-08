@@ -1,0 +1,3 @@
+LED_OUT=-LED_OUT,+LED_OUT,+LED_G
+Rectifire=GND_P,+300V_P
+Signal_LOGIC=Signal_LOGIC,GND,+5

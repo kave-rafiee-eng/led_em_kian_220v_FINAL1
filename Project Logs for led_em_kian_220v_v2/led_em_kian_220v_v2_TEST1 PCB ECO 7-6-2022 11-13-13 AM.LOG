@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=-LED_OUT Pin=C4--
+Added Pin To Net: NetName=+300V_P Pin=C4--
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_CONRCTOR Member=Component CN1 LED_OUT
+Added Room: Name=U_led_em_kian_220v_v2_CONRCTOR
+Added Room: Name=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL
+Added Room: Name=U_led_em_kian_220v_v2_SWITCHING

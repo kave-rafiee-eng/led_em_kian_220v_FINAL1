@@ -1,0 +1,6 @@
+Added Component: Designator=C4(CAP-EL_P5MM)
+Added Pin To Net: NetName=GND_P Pin=BR1--
+Added Pin To Net: NetName=+300V_P Pin=C4-+
+Added Pin To Net: NetName=GND_P Pin=C4--
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component C4 6.8uF-400V
+Added Member To Class: ClassName=HV Member=Wire GND_P

@@ -1,0 +1,24 @@
+Added Component: Designator=C2(CAP/0.22uF/275v/mkt)
+Added Component: Designator=C4(CAP-EL_P5MM)
+Added Component: Designator=RF1(RES/1W)
+Added Pin To Net: NetName=GND_P Pin=BR1--
+Added Pin To Net: NetName=+300V_P Pin=C4-+
+Added Pin To Net: NetName=GND_P Pin=C4--
+Added Pin To Net: NetName=NetBR1_F Pin=BR1-F
+Added Pin To Net: NetName=NetBR1_F Pin=RF1-2
+Added Net: Name=NetBR1_F
+Added Pin To Net: NetName=N OL_EMI Pin=BR1-N
+Added Pin To Net: NetName=N OL_EMI Pin=C2-1
+Added Pin To Net: NetName=N OL_EMI Pin=EMI1-1
+Added Net: Name=N OL_EMI
+Added Pin To Net: NetName=PH_EMI Pin=C2-2
+Added Pin To Net: NetName=PH_EMI Pin=EMI1-3
+Added Pin To Net: NetName=PH_EMI Pin=RF1-1
+Added Net: Name=PH_EMI
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component C2 100nF-275V
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component C4 6.8uF-400V
+Added Member To Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=Component RF1 1.1R
+Added Member To Class: ClassName=HV Member=Wire GND_P
+Added Member To Class: ClassName=HV Member=Wire NetBR1_F
+Added Member To Class: ClassName=HV Member=Wire N OL_EMI
+Added Member To Class: ClassName=HV Member=Wire PH_EMI

@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=+300V_P Pin=BR1-+
+Added Member To Class: ClassName=HV Member=Wire +300V_P

@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=C2
+Removed Member From Class: ClassName=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL Member=RF1
+Removed Member From Class: ClassName=HV Member=NetBR1_F
+Removed Member From Class: ClassName=HV Member=N OL_EMI
+Removed Member From Class: ClassName=HV Member=PH_EMI
+Added Member To Class: ClassName=HV Member=Wire Netic1_1
+Added Member To Class: ClassName=HV Member=Wire Netic1_2
+Added Room: Name=U_led_em_kian_220v_v2_CONRCTOR
+Added Room: Name=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL
+Added Room: Name=U_led_em_kian_220v_v2_SWITCHING

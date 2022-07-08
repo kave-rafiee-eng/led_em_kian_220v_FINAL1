@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+300V_P Pin=BR1--
+Removed Pin From Net: NetName=+300V_P Pin=C3--
+Removed Pin From Net: NetName=+300V_P Pin=C4--
+Removed Pin From Net: NetName=+300V_P Pin=C11-2
+Removed Pin From Net: NetName=+300V_P Pin=C13--
+Removed Pin From Net: NetName=+300V_P Pin=IC2-1
+Removed Pin From Net: NetName=+300V_P Pin=IC2-2
+Added Pin To Net: NetName=GND_P Pin=BR1--
+Added Pin To Net: NetName=GND_P Pin=C3--
+Added Pin To Net: NetName=GND_P Pin=C4--
+Added Pin To Net: NetName=GND_P Pin=C11-2
+Added Pin To Net: NetName=GND_P Pin=C13--
+Added Pin To Net: NetName=GND_P Pin=IC2-1
+Added Pin To Net: NetName=GND_P Pin=IC2-2
+Added Net: Name=GND_P
+Added Member To Class: ClassName=HV Member=Wire GND_P

@@ -1,0 +1,240 @@
+Added Component: Designator=BR?(MB6S/SMD)
+Added Component: Designator=C1(CAP/0.22uF/275v/mkt)
+Added Component: Designator=C2(CAP/0.22uF/275v/mkt)
+Added Component: Designator=C3(CAP/2.2uF/400v)
+Added Component: Designator=C4(CAP/2.2uF/400v)
+Added Component: Designator=C7(CAP-0805)
+Added Component: Designator=C8(CAP/100nF/275V/poly)
+Added Component: Designator=C9(cap/330u/16v)
+Added Component: Designator=C10(cap/330u/16v)
+Added Component: Designator=C11(CAP/100nF/275V/poly)
+Added Component: Designator=C12(CAP-0805)
+Added Component: Designator=C13(cap/330u/16v)
+Added Component: Designator=C14(CAP-0805)
+Added Component: Designator=C15(CAP-0805)
+Added Component: Designator=C16(CAP-0805)
+Added Component: Designator=CN1(CONECTOR/FONIX/3PIN)
+Added Component: Designator=CN2(CONECTOR/FONIX/3PIN)
+Added Component: Designator=D1(DIOD/1N4007/SMD)
+Added Component: Designator=D2(DIOD/1N4007/SMD)
+Added Component: Designator=D3(DIOD/1N4007/DIP)
+Added Component: Designator=D4(DIOD/1N4007/SMD)
+Added Component: Designator=D5(DIOD/1N4007/SMD)
+Added Component: Designator=D6(DIOD/1N4007/SMD)
+Added Component: Designator=D7(DIOD/1N4007/SMD)
+Added Component: Designator=EMI1(emi_chok_yd)
+Added Component: Designator=ic1(h11a1)
+Added Component: Designator=IC2(DIP8)
+Added Component: Designator=IC3(SOP-8)
+Added Component: Designator=LED1(LED/0805)
+Added Component: Designator=M1(AO3401A)
+Added Component: Designator=OP1(pc817)
+Added Component: Designator=R1(RES/1W)
+Added Component: Designator=R2(RES/1W)
+Added Component: Designator=R3(RES/0805)
+Added Component: Designator=R4(RES/0805)
+Added Component: Designator=R5(RES/0805)
+Added Component: Designator=R6(RES/0805)
+Added Component: Designator=R7(RES/1206)
+Added Component: Designator=R8(RES/1206)
+Added Component: Designator=R9(RES/1206)
+Added Component: Designator=R10(RES/0805)
+Added Component: Designator=R11(RES/0805)
+Added Component: Designator=R12(RES/0805)
+Added Component: Designator=R13(RES/0805)
+Added Component: Designator=R14(RES/0805)
+Added Component: Designator=R15(RES/0805)
+Added Component: Designator=R16(RES/1206)
+Added Component: Designator=R17(RES/1206)
+Added Component: Designator=R18(RES/1206)
+Added Component: Designator=R19(RES/0805)
+Added Component: Designator=R20(RES/0805)
+Added Component: Designator=R21(RES/0805)
+Added Component: Designator=R22(RES/0805)
+Added Component: Designator=RF1(RES/1W)
+Added Component: Designator=TR1(TRANS_KARA)
+Added Component: Designator=VAR1(varistor)
+Added Component: Designator=VAR2(varistor)
+Added Component: Designator=Z1(TL431)
+Added Component: Designator=Z2(DIOD/RS1J)
+Added Pin To Net: NetName=NetBR?_F Pin=BR?-F
+Added Pin To Net: NetName=NOL Pin=C1-1
+Added Pin To Net: NetName=PH Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+OUT Pin=C9-+
+Added Pin To Net: NetName=GND Pin=C9--
+Added Pin To Net: NetName=+OUT Pin=C10-+
+Added Pin To Net: NetName=GND Pin=C10--
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=-LED_OUT Pin=CN1-1
+Added Pin To Net: NetName=+LED_OUT Pin=CN1-2
+Added Pin To Net: NetName=+LED_G Pin=CN1-3
+Added Pin To Net: NetName=PH Pin=CN2-1
+Added Pin To Net: NetName=NOL Pin=CN2-2
+Added Pin To Net: NetName=SIGNAL-220V Pin=CN2-3
+Added Pin To Net: NetName=+OUT Pin=D2-K
+Added Pin To Net: NetName=+OUT Pin=D3-K
+Added Pin To Net: NetName=+OUT Pin=D4-K
+Added Pin To Net: NetName=OUT_OP Pin=D6-A
+Added Pin To Net: NetName=OUT_OP Pin=D7-A
+Added Pin To Net: NetName=NOL Pin=EMI1-2
+Added Pin To Net: NetName=PH Pin=EMI1-4
+Added Pin To Net: NetName=GND Pin=ic1-4
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=LED1-A
+Added Pin To Net: NetName=+OUT Pin=M1-D
+Added Pin To Net: NetName=+LED_OUT Pin=M1-S
+Added Pin To Net: NetName=OUT_OP Pin=OP1-2
+Added Pin To Net: NetName=SIGNAL-220V Pin=R1-1
+Added Pin To Net: NetName=NOL Pin=R2-1
+Added Pin To Net: NetName=+OUT Pin=R6-1
+Added Pin To Net: NetName=+LED_G Pin=R7-1
+Added Pin To Net: NetName=+OUT Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=+OUT Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=+OUT Pin=R11-2
+Added Pin To Net: NetName=+OUT Pin=R12-1
+Added Pin To Net: NetName=OUT_OP Pin=R13-1
+Added Pin To Net: NetName=-LED_OUT Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=-LED_OUT Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=-LED_OUT Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=-LED_OUT Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=+OUT Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=NetBR?_F Pin=RF1-2
+Added Pin To Net: NetName=GND Pin=TR1-1
+Added Pin To Net: NetName=NOL Pin=VAR1-1
+Added Pin To Net: NetName=PH Pin=VAR1-2
+Added Pin To Net: NetName=GND Pin=Z1-A
+Added Pin To Net: NetName=GND Pin=Z2-A
+Added Pin To Net: NetName=+5 Pin=IC3-8
+Added Pin To Net: NetName=+5 Pin=R3-1
+Added Pin To Net: NetName=+5 Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=R5-2
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=+5 Pin=R15-2
+Added Pin To Net: NetName=+5 Pin=Z2-K
+Added Net: Name=+5
+Added Pin To Net: NetName=+300V_P Pin=BR?-+
+Added Pin To Net: NetName=+300V_P Pin=BR?--
+Added Pin To Net: NetName=+300V_P Pin=C3-+
+Added Pin To Net: NetName=+300V_P Pin=C3--
+Added Pin To Net: NetName=+300V_P Pin=C4-+
+Added Pin To Net: NetName=+300V_P Pin=C4--
+Added Pin To Net: NetName=+300V_P Pin=C11-2
+Added Pin To Net: NetName=+300V_P Pin=C13--
+Added Pin To Net: NetName=+300V_P Pin=D5-K
+Added Pin To Net: NetName=+300V_P Pin=IC2-1
+Added Pin To Net: NetName=+300V_P Pin=IC2-2
+Added Pin To Net: NetName=+300V_P Pin=TR1-9
+Added Pin To Net: NetName=+300V_P Pin=TR1-10
+Added Pin To Net: NetName=+300V_P Pin=VAR2-1
+Added Net: Name=+300V_P
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D5-A
+Added Pin To Net: NetName=NetC8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R9-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-5
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-6
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-7
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-8
+Added Pin To Net: NetName=NetC8_2 Pin=R8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-2
+Added Pin To Net: NetName=NetC8_2 Pin=TR1-6
+Added Pin To Net: NetName=NetC8_2 Pin=TR1-7
+Added Pin To Net: NetName=NetC8_2 Pin=VAR2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC13_+ Pin=C13-+
+Added Pin To Net: NetName=NetC13_+ Pin=IC2-4
+Added Pin To Net: NetName=NetC13_+ Pin=OP1-4
+Added Net: Name=NetC13_+
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=IC3-6
+Added Pin To Net: NetName=NetC14_2 Pin=R14-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=IC3-2
+Added Pin To Net: NetName=NetC15_2 Pin=R19-1
+Added Pin To Net: NetName=NetC15_2 Pin=R20-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=IC3-5
+Added Pin To Net: NetName=NetC16_2 Pin=R21-1
+Added Pin To Net: NetName=NetC16_2 Pin=R22-2
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=TR1-4
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R5-1
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=D3-A
+Added Pin To Net: NetName=NetD2_A Pin=D4-A
+Added Pin To Net: NetName=NetD2_A Pin=TR1-2
+Added Pin To Net: NetName=NetD2_A Pin=TR1-3
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD6_K Pin=D6-K
+Added Pin To Net: NetName=NetD6_K Pin=IC3-1
+Added Net: Name=NetD6_K
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=NetD7_K Pin=IC3-7
+Added Net: Name=NetD7_K
+Added Pin To Net: NetName=Netic1_1 Pin=ic1-1
+Added Pin To Net: NetName=Netic1_1 Pin=R2-2
+Added Net: Name=Netic1_1
+Added Pin To Net: NetName=Netic1_2 Pin=ic1-2
+Added Pin To Net: NetName=Netic1_2 Pin=R1-2
+Added Net: Name=Netic1_2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=OP1-3
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=R12-2
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetOP1_1 Pin=OP1-1
+Added Pin To Net: NetName=NetOP1_1 Pin=R13-2
+Added Pin To Net: NetName=NetOP1_1 Pin=R15-1
+Added Net: Name=NetOP1_1
+Added Pin To Net: NetName=N OL_EMI Pin=BR?-N
+Added Pin To Net: NetName=N OL_EMI Pin=C2-1
+Added Pin To Net: NetName=N OL_EMI Pin=EMI1-1
+Added Net: Name=N OL_EMI
+Added Pin To Net: NetName=PH_EMI Pin=C2-2
+Added Pin To Net: NetName=PH_EMI Pin=EMI1-3
+Added Pin To Net: NetName=PH_EMI Pin=RF1-1
+Added Net: Name=PH_EMI
+Added Pin To Net: NetName=Signal_LOGIC Pin=ic1-5
+Added Pin To Net: NetName=Signal_LOGIC Pin=M1-G
+Added Pin To Net: NetName=Signal_LOGIC Pin=R3-2
+Added Net: Name=Signal_LOGIC
+Added Pin To Net: NetName=V_REF Pin=C7-2
+Added Pin To Net: NetName=V_REF Pin=IC3-3
+Added Pin To Net: NetName=V_REF Pin=R4-1
+Added Pin To Net: NetName=V_REF Pin=R22-1
+Added Pin To Net: NetName=V_REF Pin=Z1-C
+Added Pin To Net: NetName=V_REF Pin=Z1-REF
+Added Net: Name=V_REF
+Added Class: Name=U_led_em_kian_220v_v2_CONRCTOR
+Added Class: Name=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL
+Added Class: Name=U_led_em_kian_220v_v2_SWITCHING
+Added Class: Name=POWER_OUT
+Added Class: Name=SN
+Added Member To Class: ClassName=HV Member=Wire +300V_P
+Added Member To Class: ClassName=HV Member=Wire NetBR?_F
+Added Member To Class: ClassName=HV Member=Wire Netic1_1
+Added Member To Class: ClassName=HV Member=Wire Netic1_2
+Added Member To Class: ClassName=HV Member=Wire N OL_EMI
+Added Member To Class: ClassName=HV Member=Wire PH_EMI
+Added Room: Name=U_led_em_kian_220v_v2_CONRCTOR
+Added Room: Name=U_led_em_kian_220v_v2_RECTIFIRER&SIGNAL
+Added Room: Name=U_led_em_kian_220v_v2_SWITCHING
